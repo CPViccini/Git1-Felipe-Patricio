@@ -1,1 +1,3 @@
-Este es el segundo archivo nuevo creado por el participante B
+Este es el segundo archivo nuevo creado por el participante B \n
+
+nueva modificación en archivo
