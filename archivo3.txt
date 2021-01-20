@@ -1,4 +1,8 @@
 Grupo 9!
+Modificacion del participante A
+Estas son lineas con sentido
+Para facilitar la tarea del ejercicio 8
+
 
 Esto va a generar un conflicto que necesitamos resolver
 
